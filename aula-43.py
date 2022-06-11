@@ -1,0 +1,1 @@
+#Curso de python - Aula 43 - Lista, Pilha, Array, Set - eXcript
