@@ -19,5 +19,5 @@ if(len(lista)<=3):
 
 else:
     print('maior que 3')
-
+    printI("testando preiro commit nesse repositorio")
 
